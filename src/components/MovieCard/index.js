@@ -12,6 +12,6 @@ export const MovieCard = (props) => {
 
 const styles = StyleSheet.create({ 
     img: {
-        marginLeft: 20,
+        marginRight: 20,
     }
 })

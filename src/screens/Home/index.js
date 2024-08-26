@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
     },
 
     contentMovies: {
-
+        marginBottom: 20,
     },
 
     movieText: {
